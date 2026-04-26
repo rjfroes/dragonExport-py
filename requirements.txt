@@ -1,0 +1,12 @@
+# Runtime
+requests==2.31.0
+pandas==2.2.2
+gspread==6.1.2
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+python-dotenv==1.0.1
+
+# Testes
+pytest==8.2.0
+pytest-cov==5.0.0
